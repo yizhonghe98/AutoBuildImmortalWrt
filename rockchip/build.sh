@@ -39,7 +39,6 @@ PACKAGES="$PACKAGES luci-theme-argon"
 
 PACKAGES="$PACKAGES luci-i18n-udpxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-omcproxy-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES php8"
